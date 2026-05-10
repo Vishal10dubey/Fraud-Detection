@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+pyspark
+kafka-python
+confluent-kafka
+streamlit
+sqlalchemy
+psycopg2-binary
+faker
+joblib
